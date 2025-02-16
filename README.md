@@ -1,0 +1,2 @@
+# godot_vampire_surviour
+一款使用godot引擎制作的小型吸血鬼幸存者游戏
